@@ -6,8 +6,18 @@
   "private": true,
   "main": "main.js",
   "dependencies": {
+    "@exponent/vector-icons": "^1.0.4",
     "exponent": "^10.0.4",
     "react": "~15.3.2",
-    "react-native": "github:exponentjs/react-native#sdk-10.1.2"
+    "react-native": "github:exponentjs/react-native#sdk-10.1.2",
+    "react-native-elements": "^0.6.2",
+    "react-native-vector-icons": "github:exponentjs/react-native-vector-icons"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "babel-preset-react-native": "^1.9.0",
+    "eslint": "^3.6.0",
+    "eslint-plugin-babel": "^3.3.0",
+    "eslint-plugin-react": "^6.3.0"
   }
 }

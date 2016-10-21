@@ -17,5 +17,11 @@
   },
   "packagerOpts": {
     "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "bundleIdentifier": "com.exponent.kithcensink"
+  },
+  "android": {
+    "package": "com.exponent.kithcensink"
   }
 }
